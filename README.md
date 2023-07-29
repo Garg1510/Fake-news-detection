@@ -1,3 +1,3 @@
 # Fake-news-detection
 
-Developed a deep learning model using tensorflow to detect news articels as fakse or genuine
+Developed a deep learning model using TensorFlow to detect news articles as fake or genuine
